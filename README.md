@@ -1,5 +1,5 @@
 # Manual-TensorFlow-Perceptron
-A perceptron programmed from scratch by simulating tensorflow API for simple linear classification.
+A perceptron programmed from scratch by simulating tensorflow API for simple linear classification. This greatly helpful for understanding when working with the real TensorFlow.
 
 
 # Code Main Contents
